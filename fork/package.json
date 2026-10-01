@@ -1,0 +1,11 @@
+{
+  "name": "mirror-fork",
+  "private": true,
+  "description": "Local fork of Robinhood Chain for rehearsing a purchase. Never used by the app itself.",
+  "scripts": {
+    "serve": "hardhat run serve.cjs"
+  },
+  "devDependencies": {
+    "hardhat": "^2.29.0"
+  }
+}

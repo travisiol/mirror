@@ -1,0 +1,276 @@
+{
+  "block": 77651208,
+  "checkedAt": "2026-10-01T20:11:41.786Z",
+  "usdg": {
+    "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "decimals": 6
+  },
+  "tokens": {
+    "NFLX": {
+      "address": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
+      "inOfficialList": true,
+      "name": "Netflix • Robinhood Token",
+      "symbol": "NFLX",
+      "decimals": 18,
+      "uiMultiplier": "1000000000000000000",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "3671242661617246",
+          "toAmountMin": "3634530235001074",
+          "fees": [
+            "LIFI Fixed Fee:625"
+          ],
+          "gasUsd": "0.0260"
+        },
+        {
+          "fromAmount": "1549000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "22746313748936148",
+          "toAmountMin": "22518850611446787",
+          "fees": [
+            "LIFI Fixed Fee:3872"
+          ],
+          "gasUsd": "0.0260"
+        },
+        {
+          "fromAmount": "10000000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "146813152597043584",
+          "toAmountMin": "145345021071073148",
+          "fees": [
+            "LIFI Fixed Fee:25000"
+          ],
+          "gasUsd": "0.0264"
+        }
+      ]
+    },
+    "AMZN": {
+      "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+      "inOfficialList": true,
+      "name": "Amazon • Robinhood Token",
+      "symbol": "AMZN",
+      "decimals": 18,
+      "uiMultiplier": "1000000000000000000",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "1002541251165934",
+          "toAmountMin": "992515838654275",
+          "fees": [
+            "LIFI Fixed Fee:625"
+          ],
+          "gasUsd": "0.0258"
+        },
+        {
+          "fromAmount": "1549000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "6209452275373717",
+          "toAmountMin": "6147357752619980",
+          "fees": [
+            "LIFI Fixed Fee:3872"
+          ],
+          "gasUsd": "0.0258"
+        },
+        {
+          "fromAmount": "10000000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "40164377216043952",
+          "toAmountMin": "39762733443883512",
+          "fees": [
+            "LIFI Fixed Fee:25000"
+          ],
+          "gasUsd": "0.0357"
+        }
+      ]
+    },
+    "GOOGL": {
+      "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      "inOfficialList": true,
+      "name": "Alphabet Class A • Robinhood Token",
+      "symbol": "GOOGL",
+      "decimals": 18,
+      "uiMultiplier": "1000193924414112587",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "736342175151521",
+          "toAmountMin": "728978753400006",
+          "fees": [
+            "LIFI Fixed Fee:625"
+          ],
+          "gasUsd": "0.0253"
+        },
+        {
+          "fromAmount": "1549000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "4561973475705997",
+          "toAmountMin": "4516353740948937",
+          "fees": [
+            "LIFI Fixed Fee:3872"
+          ],
+          "gasUsd": "0.0256"
+        },
+        {
+          "fromAmount": "10000000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "29433895041586756",
+          "toAmountMin": "29139556091170888",
+          "fees": [
+            "LIFI Fixed Fee:25000"
+          ],
+          "gasUsd": "0.0256"
+        }
+      ]
+    },
+    "AAPL": {
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "inOfficialList": true,
+      "name": "Apple • Robinhood Token",
+      "symbol": "AAPL",
+      "decimals": 18,
+      "uiMultiplier": "1000566080061092436",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "tool": "kyberswap",
+          "to": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "approvalAddress": "0xB477751B76CF82d00a686A1232f5fCD772414Af3",
+          "toAmount": "754143813266535",
+          "toAmountMin": "746602375133870",
+          "fees": [
+            "LIFI Fixed Fee:625"
+          ],
+          "gasUsd": "0.0277"
+        },
+        {
+          "fromAmount": "1549000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "10000000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        }
+      ]
+    },
+    "MSFT": {
+      "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+      "inOfficialList": true,
+      "name": "Microsoft • Robinhood Token",
+      "symbol": "MSFT",
+      "decimals": 18,
+      "uiMultiplier": "1000412952576205964",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "1549000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "10000000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        }
+      ]
+    },
+    "ADBE": {
+      "address": "0x232B8ed6377BE97813853B0Ac104c4Cda8378d1B",
+      "inOfficialList": true,
+      "name": "Adobe • Robinhood Token",
+      "symbol": "ADBE",
+      "decimals": 18,
+      "uiMultiplier": "1000000000000000000",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "1549000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "10000000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        }
+      ]
+    },
+    "RBLX": {
+      "address": "0xF0C4BF4C582cb3836e98394b1d4e7B7281101bE8",
+      "inOfficialList": true,
+      "name": "Roblox • Robinhood Token",
+      "symbol": "RBLX",
+      "decimals": 18,
+      "uiMultiplier": "1000000000000000000",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "1549000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "10000000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        }
+      ]
+    },
+    "ZM": {
+      "address": "0x44c4F142009036cF477eD2d09932051843137CF1",
+      "inOfficialList": true,
+      "name": "Zoom • Robinhood Token",
+      "symbol": "ZM",
+      "decimals": 18,
+      "uiMultiplier": "1000000000000000000",
+      "balanceOfUI": "0",
+      "quotes": [
+        {
+          "fromAmount": "250000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "1549000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        },
+        {
+          "fromAmount": "10000000",
+          "error": "Rate limit exceeded, retry in 1 hour"
+        }
+      ]
+    }
+  }
+}

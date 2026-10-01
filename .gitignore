@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+/build
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+*.tsbuildinfo
+next-env.d.ts
+
+# env files
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# local data: database, dev session key
+/data/
+/shots/
+dev.log
+
+# fork rehearsal artefacts
+/fork/cache/
+/fork/artifacts/
