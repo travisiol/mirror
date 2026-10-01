@@ -30,3 +30,6 @@ dev.log
 # fork rehearsal artefacts
 /fork/cache/
 /fork/artifacts/
+
+# downloaded copies of third-party documentation pages
+/research/*.html
